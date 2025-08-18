@@ -1,0 +1,4 @@
+This is a sample text file.
+You can read this file using the Node.js 'fs' module.
+Each line contains some sample content.
+End of file.
